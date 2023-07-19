@@ -25,3 +25,13 @@ a:active {
   color: inherit;
   font-weight: inherit;
 }
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
