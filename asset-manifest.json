@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/soico/static/css/main.3b476c86.css",
+    "main.css": "/soico/static/css/main.e0f9fd3a.css",
     "main.js": "/soico/static/js/main.98f40909.js",
     "static/media/logo.svg": "/soico/static/media/logo.dbe1ba5cb83ff93c7cbd924011a8cbcb.svg",
     "static/media/bag.svg": "/soico/static/media/bag.4d8d0f8bbeb9e8e39a64f63f0cc315d2.svg",
     "index.html": "/soico/index.html",
-    "main.3b476c86.css.map": "/soico/static/css/main.3b476c86.css.map",
+    "main.e0f9fd3a.css.map": "/soico/static/css/main.e0f9fd3a.css.map",
     "main.98f40909.js.map": "/soico/static/js/main.98f40909.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b476c86.css",
+    "static/css/main.e0f9fd3a.css",
     "static/js/main.98f40909.js"
   ]
 }
