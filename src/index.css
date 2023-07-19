@@ -35,3 +35,15 @@ a:active {
   display: flex;
   flex-direction: row;
 }
+
+:root {
+  --white: #F9F9F9;
+  --black: #0E0E0E;
+  --main-black: #333333;
+  --coffee: #A58A76;
+  --grey: #565656;
+  --disable: #ECECEC;
+  --stroke-disable: #BEBEBE;
+  --orange-stroke: #F0CB46;
+  --light-brown: #D9D5CD;
+}
