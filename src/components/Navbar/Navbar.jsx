@@ -16,11 +16,11 @@ const Navbar = () => {
                 <img src={logo} alt='logo' className='logo-img' />
             </Link>
             <nav className='nav row'>
-                <Link to='soico/about' className='header-nav__item'>Про нас</Link>
-                <Link to='soico/catalogue' className='header-nav__item'>Каталог</Link>
-                <Link to='soico/flavor' className='header-nav__item'>Аромати</Link>
-                <Link to='soico/sales' className='header-nav__item'>Акції</Link>
-                <Link to='soico/delivery' className='header-nav__item'>Доставка і оплата</Link>
+                <Link to='soico/about' className='nav-item'>Про нас</Link>
+                <Link to='soico/catalogue' className='nav-item'>Каталог</Link>
+                <Link to='soico/flavor' className='nav-item'>Аромати</Link>
+                <Link to='soico/sales' className='nav-item'>Акції</Link>
+                <Link to='soico/delivery' className='nav-item'>Доставка і оплата</Link>
             </nav>
             <Link to='soico/bag' className='bag-logo'>
                 <img src={bag} alt='logo' className='bag-logo__img' />

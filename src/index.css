@@ -1,5 +1,11 @@
+@font-face {
+  font-family: 'Evolventa';
+  src: url("./assets/fonts/evolventa.ttf") format("ttf");
+}
+
 html {
   font-size: 10px;
+  font-family: 'Evolventa';
 }
 
 *,
@@ -22,8 +28,6 @@ a:visited,
 a:hover,
 a:active {
   text-decoration: none;
-  color: inherit;
-  font-weight: inherit;
 }
 
 .column {
