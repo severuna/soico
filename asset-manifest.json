@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/soico/static/css/main.e0f9fd3a.css",
-    "main.js": "/soico/static/js/main.98f40909.js",
+    "main.css": "/soico/static/css/main.cd02f39c.css",
+    "main.js": "/soico/static/js/main.6576d7e1.js",
+    "static/media/evolventa.ttf": "/soico/static/media/evolventa.bea4dadebf6ff7f13e29.ttf",
     "static/media/logo.svg": "/soico/static/media/logo.dbe1ba5cb83ff93c7cbd924011a8cbcb.svg",
     "static/media/bag.svg": "/soico/static/media/bag.4d8d0f8bbeb9e8e39a64f63f0cc315d2.svg",
     "index.html": "/soico/index.html",
-    "main.e0f9fd3a.css.map": "/soico/static/css/main.e0f9fd3a.css.map",
-    "main.98f40909.js.map": "/soico/static/js/main.98f40909.js.map"
+    "main.cd02f39c.css.map": "/soico/static/css/main.cd02f39c.css.map",
+    "main.6576d7e1.js.map": "/soico/static/js/main.6576d7e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0f9fd3a.css",
-    "static/js/main.98f40909.js"
+    "static/css/main.cd02f39c.css",
+    "static/js/main.6576d7e1.js"
   ]
 }
