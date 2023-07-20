@@ -3,6 +3,13 @@
   src: url("./assets/fonts/evolventa.ttf") format("ttf");
 }
 
+@font-face {
+  font-family: 'Vevey Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Vevey Regular'), url('./assets/fonts/vevey.woff') format('woff');
+}
+
 html {
   font-size: 10px;
   font-family: 'Evolventa';

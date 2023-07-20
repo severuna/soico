@@ -1,0 +1,23 @@
+.btn {
+    padding: 2rem 4rem;
+    align-items: center;
+    font-size: 1.8rem;
+    font-family: 'Evolventa';
+    font-weight: 700;
+    border: none;
+    gap: 1rem;
+    width: max-content;
+    border-radius: .4rem;
+}
+
+.btn-white {
+    background-color: var(--white);
+    color: var(--black);
+    border: 1px solid var(--main-black);
+}
+
+.btn-black {
+    background-color: var(--main-black);
+    color: #ffffff;
+    border: 1px solid var(--main-black);
+}
