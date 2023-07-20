@@ -4,8 +4,16 @@
     gap: 6.4rem;
 }
 
+.section-black {
+    background-color: var(--main-black);
+}
+
 .title {
     font-size: 3.6rem;
     font-weight: 700;
     color: var(--main-black);
+}
+
+.section-black .title {
+    color: var(--white);
 }

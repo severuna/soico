@@ -15,6 +15,9 @@ import forms_3 from './assets/img/forms/forms_3.png';
 import forms_4 from './assets/img/forms/forms_4.png';
 import forms_5 from './assets/img/forms/forms_5.png';
 import forms_6 from './assets/img/forms/forms_6.png';
+import aroma_1 from './assets/img/aroma/aroma_1.png';
+import aroma_2 from './assets/img/aroma/aroma_2.png';
+import aroma_3 from './assets/img/aroma/aroma_3.png';
 
 export const useCandles = create(devtools((set, get) => ({
     classic: [
@@ -154,6 +157,29 @@ export const useCandles = create(devtools((set, get) => ({
             burning: '',
             description: '',
             price: 230
+        },
+    ],
+    aroma: [
+        {
+            id: 0,
+            name: 'Аромасасше з прикрасою лаванда',
+            src: aroma_1,
+            description: '',
+            price: 85
+        },
+        {
+            id: 1,
+            name: 'Аромасасше з прикрасою квітковий дизайн',
+            src: aroma_2,
+            description: '',
+            price: 85
+        },
+        {
+            id: 2,
+            name: 'Аромасасше з прикрасою мармурова крихта',
+            src: aroma_3,
+            description: '',
+            price: 85
         },
     ],
 })));

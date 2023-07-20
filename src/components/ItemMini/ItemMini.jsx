@@ -4,10 +4,9 @@ import like from '../../assets/img/like.svg';
 import Button from '../module/Button/Button';
 
 const ItemMini = ( props ) => {
+    
+    const ITEM = {...props};
 
-    console.log(props);
-
-    const ITEM = {...props}
     return (
         <div className='item-mini column'>
             <div className='item-mini__main column'>
