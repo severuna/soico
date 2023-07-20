@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/soico/static/css/main.cd02f39c.css",
-    "main.js": "/soico/static/js/main.6576d7e1.js",
+    "main.css": "/soico/static/css/main.3fae7599.css",
+    "main.js": "/soico/static/js/main.563eb786.js",
+    "static/media/banner_img.png": "/soico/static/media/banner_img.f85e2ca077bf642f59fc.png",
     "static/media/evolventa.ttf": "/soico/static/media/evolventa.bea4dadebf6ff7f13e29.ttf",
+    "static/media/vevey.woff": "/soico/static/media/vevey.877732d393ba64fd6e4e.woff",
     "static/media/logo.svg": "/soico/static/media/logo.dbe1ba5cb83ff93c7cbd924011a8cbcb.svg",
     "static/media/bag.svg": "/soico/static/media/bag.4d8d0f8bbeb9e8e39a64f63f0cc315d2.svg",
     "index.html": "/soico/index.html",
-    "main.cd02f39c.css.map": "/soico/static/css/main.cd02f39c.css.map",
-    "main.6576d7e1.js.map": "/soico/static/js/main.6576d7e1.js.map"
+    "static/media/arrow_right.svg": "/soico/static/media/arrow_right.1e4aa34e80de0ad2d01552eb8a5afd53.svg",
+    "main.3fae7599.css.map": "/soico/static/css/main.3fae7599.css.map",
+    "main.563eb786.js.map": "/soico/static/js/main.563eb786.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd02f39c.css",
-    "static/js/main.6576d7e1.js"
+    "static/css/main.3fae7599.css",
+    "static/js/main.563eb786.js"
   ]
 }
