@@ -21,3 +21,8 @@
     color: #ffffff;
     border: 1px solid var(--main-black);
 }
+
+.mini {
+    font-size: 1.4rem;
+    padding: .8rem 2.4rem;
+}

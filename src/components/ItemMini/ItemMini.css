@@ -1,0 +1,38 @@
+.item-mini {
+    border: 1px solid #000;
+    border-radius: 1rem;
+    padding: 2rem;
+    gap: 4.6rem;
+    max-width: 29.5rem;
+}
+
+.item-mini__main{
+    gap: 2rem;
+}
+
+.item-mini__img {
+    max-width: 25rem;
+}
+
+.item-mini_title, .item-mini__footer {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item-mini__name, .item-mini__price {
+    font-size: 1.6rem;
+    color: var(--main-black);
+}
+
+.item-mini__name {
+    font-weight: 400;
+}
+
+.item-mini__price {
+    font-weight: 700;
+}
+
+.item-mini_like{
+    background-color: transparent;
+    border: none;
+}

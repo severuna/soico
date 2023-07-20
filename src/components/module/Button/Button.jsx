@@ -1,7 +1,7 @@
 import React from 'react';
 import style from './Button.module.css';
 
-const Button = ( { variant, content, img }) => {
+const Button = ( { variant, content, img, mini }) => {
 
     const setColor = () => {
 
@@ -19,7 +19,7 @@ const Button = ( { variant, content, img }) => {
          
     }
     return (
-        <button className={`${style.btn} row  ${style[setColor()]}`}>
+        <button className={`${style.btn} row ${style[setColor()]} ${!mini ? null : style.mini}`}>
             {content}
             {!img ? null : <img src={img} alt='btn img' />}
         </button>

@@ -1,0 +1,11 @@
+.section {
+    padding: 15rem 28rem;
+    align-items: center;
+    gap: 6.4rem;
+}
+
+.title {
+    font-size: 3.6rem;
+    font-weight: 700;
+    color: var(--main-black);
+}
