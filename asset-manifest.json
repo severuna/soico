@@ -1,19 +1,35 @@
 {
   "files": {
-    "main.css": "/soico/static/css/main.3fae7599.css",
-    "main.js": "/soico/static/js/main.563eb786.js",
+    "main.css": "/soico/static/css/main.e3b938b4.css",
+    "main.js": "/soico/static/js/main.c0bde754.js",
     "static/media/banner_img.png": "/soico/static/media/banner_img.f85e2ca077bf642f59fc.png",
+    "static/media/forms_4.png": "/soico/static/media/forms_4.e61c7e5605c9bddb8ed8.png",
+    "static/media/forms_5.png": "/soico/static/media/forms_5.e51820b95c5c9e87b9ac.png",
+    "static/media/classic_6.png": "/soico/static/media/classic_6.0cfb97100f2361b59346.png",
+    "static/media/forms_6.png": "/soico/static/media/forms_6.191e26f0a2ff168b4296.png",
+    "static/media/classic_9.png": "/soico/static/media/classic_9.9de22aed5c3f334f0ba1.png",
+    "static/media/forms_1.png": "/soico/static/media/forms_1.b63d0f40a0cd95b5f5c2.png",
+    "static/media/forms_3.png": "/soico/static/media/forms_3.6c2bbc9cd333bf3b68b0.png",
+    "static/media/classic_5.png": "/soico/static/media/classic_5.8a2bea812c9b28d6b834.png",
+    "static/media/classic_7.png": "/soico/static/media/classic_7.390308f9aa40ed6d6977.png",
+    "static/media/forms_2.png": "/soico/static/media/forms_2.f228706cd60dbd4d7065.png",
+    "static/media/classic_3.png": "/soico/static/media/classic_3.14abf3540116a9d11b2a.png",
+    "static/media/classic_4.png": "/soico/static/media/classic_4.d0c142137b543d358f85.png",
+    "static/media/classic_8.png": "/soico/static/media/classic_8.a4714669c149854fceb3.png",
     "static/media/evolventa.ttf": "/soico/static/media/evolventa.bea4dadebf6ff7f13e29.ttf",
+    "static/media/classic_1.png": "/soico/static/media/classic_1.471fc11edc7fd0a8a6ea.png",
+    "static/media/classic_2.png": "/soico/static/media/classic_2.5d36168e2c767905b2fe.png",
     "static/media/vevey.woff": "/soico/static/media/vevey.877732d393ba64fd6e4e.woff",
     "static/media/logo.svg": "/soico/static/media/logo.dbe1ba5cb83ff93c7cbd924011a8cbcb.svg",
     "static/media/bag.svg": "/soico/static/media/bag.4d8d0f8bbeb9e8e39a64f63f0cc315d2.svg",
     "index.html": "/soico/index.html",
+    "static/media/like.svg": "/soico/static/media/like.aa24010a318bdf51f614815c888e9777.svg",
     "static/media/arrow_right.svg": "/soico/static/media/arrow_right.1e4aa34e80de0ad2d01552eb8a5afd53.svg",
-    "main.3fae7599.css.map": "/soico/static/css/main.3fae7599.css.map",
-    "main.563eb786.js.map": "/soico/static/js/main.563eb786.js.map"
+    "main.e3b938b4.css.map": "/soico/static/css/main.e3b938b4.css.map",
+    "main.c0bde754.js.map": "/soico/static/js/main.c0bde754.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fae7599.css",
-    "static/js/main.563eb786.js"
+    "static/css/main.e3b938b4.css",
+    "static/js/main.c0bde754.js"
   ]
 }
