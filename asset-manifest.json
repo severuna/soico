@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/soico/static/css/main.76005e77.css",
-    "main.js": "/soico/static/js/main.6d986aba.js",
+    "main.css": "/soico/static/css/main.64a1048d.css",
+    "main.js": "/soico/static/js/main.5ea4099d.js",
+    "static/media/home-about__img.png": "/soico/static/media/home-about__img.dfe2f4d8d4eed4e8d2c9.png",
     "static/media/banner_img.png": "/soico/static/media/banner_img.f85e2ca077bf642f59fc.png",
     "static/media/forms_4.png": "/soico/static/media/forms_4.e61c7e5605c9bddb8ed8.png",
     "static/media/forms_5.png": "/soico/static/media/forms_5.e51820b95c5c9e87b9ac.png",
@@ -28,11 +29,11 @@
     "index.html": "/soico/index.html",
     "static/media/like.svg": "/soico/static/media/like.aa24010a318bdf51f614815c888e9777.svg",
     "static/media/arrow_right.svg": "/soico/static/media/arrow_right.1e4aa34e80de0ad2d01552eb8a5afd53.svg",
-    "main.76005e77.css.map": "/soico/static/css/main.76005e77.css.map",
-    "main.6d986aba.js.map": "/soico/static/js/main.6d986aba.js.map"
+    "main.64a1048d.css.map": "/soico/static/css/main.64a1048d.css.map",
+    "main.5ea4099d.js.map": "/soico/static/js/main.5ea4099d.js.map"
   },
   "entrypoints": [
-    "static/css/main.76005e77.css",
-    "static/js/main.6d986aba.js"
+    "static/css/main.64a1048d.css",
+    "static/js/main.5ea4099d.js"
   ]
 }
