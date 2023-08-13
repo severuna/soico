@@ -1,0 +1,16 @@
+.home-text {
+    background-color: var(--main-black);
+    padding: 3.8rem 44.5rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home-text__item {
+    max-width: 15rem;
+    color: var(--white);
+    text-align: center;
+    font-family: Evolventa;
+    font-size: 3.2rem;
+    font-weight: 700;
+    line-height: 149.023%;
+}

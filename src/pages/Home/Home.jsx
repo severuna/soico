@@ -4,6 +4,7 @@ import Banner from './Banner/Banner';
 import FavoriteProducts from './FavoriteProducts/FavoriteProducts';
 import Categories from './Categories/Categories';
 import About from './About/About';
+import TextBanner from './TextBanner/TextBanner';
 
 const Home = () => {
     return (
@@ -12,6 +13,7 @@ const Home = () => {
             <FavoriteProducts />
             <Categories />
             <About />
+            <TextBanner />
         </div>
     );
 };
