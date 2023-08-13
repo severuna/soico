@@ -1,0 +1,22 @@
+.home-about {
+    gap: 1.8rem;
+}
+
+.home-about__text {
+    gap: 2.5rem;
+    max-width: 61rem;
+    justify-content: space-between;
+}
+
+.home-about__text-item {
+    color: var(--main-black);
+    font-family: Evolventa;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 152%;
+}
+
+.home-about__img {
+    max-width: 61rem;
+    height: 42.6rem;
+}
