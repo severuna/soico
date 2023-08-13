@@ -1,0 +1,27 @@
+.why-item {
+    gap: 3rem;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 20rem;
+}
+
+.why-item__img {
+    max-width: 6.1rem;
+    max-height: 6.1rem;
+}
+
+.why-item__title, .why-item__subtitle {
+    color: var(--main-black);
+    text-align: center;
+    font-family: Evolventa;
+}
+
+.why-item__title {
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+
+.why-item__subtitle {
+    font-size: 2rem;
+    font-weight: 400;
+}
